@@ -1,0 +1,10 @@
+PyMuPDF>=1.24.0
+camelot-py[cv]>=2.0.0
+Pillow>=10.0.0
+tqdm>=4.66.0
+loguru>=0.7.2
+python-dotenv>=1.0.1
+pandas>=2.2.0
+
+# Optional: enable with `pip install -r requirements-ocr.txt` or `pip install pytesseract`
+# pytesseract>=0.3.10   # requires the tesseract-ocr binary to be installed on the system
